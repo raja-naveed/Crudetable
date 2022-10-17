@@ -23,6 +23,9 @@
     height: 30px;
 }
 .container .crudeTable .row div{
+     display: flex;
+    justify-content: center;
+    align-items: center;
     width: 25%;
     padding: 5px;
     border: solid 1px;
